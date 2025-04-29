@@ -30,5 +30,7 @@ print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/216288a7-52ba-4982-a86e-1b91f847e947)
 
 ## RESULT
+Thus the program Minimum of Three Numbers have been executed and verified sucessfully.
